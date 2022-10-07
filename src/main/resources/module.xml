@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module name="org.apache.activemq.artemis.addons" xmlns="urn:jboss:module:1.9">
+   <resources>
+      <resource-root path="artemis-lb-policy-1.0.jar" />
+   </resources>
+   <dependencies>
+      <module name="org.apache.activemq.artemis" />
+   </dependencies>
+</module>
